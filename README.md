@@ -10,13 +10,13 @@
 - ⚡ Fun fact: I am 13 yeasr old
 - 🎸 Would love: To know how to play guitar
 - ✍ I recently began blogging @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
-- 📝[Resume]()
+<-- 📝[Resume]()-->
 
 
 ### Connect with me:
 
 <img align="left" alt="NextGen Coder" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<a href="#">
+<a href="https://dipshanadhikari.netlify.app/">
 <img align="left" alt="NextGen Coder | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 <a href="#">
