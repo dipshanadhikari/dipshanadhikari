@@ -6,11 +6,9 @@
 - 🌱 I’m currently learning ... everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with learning Unity game development
-- 💬 Ask me about anything in tech I bet I will answer 😂 
 - ⚡ Fun fact: I am 13 yeasr old
 - 🎸 Would love: To know how to play guitar
-- ✍ I recently began blogging @ [Hashnode](https://larymak.hashnode.dev/), [Dev](https://dev.to/larymak), [FreeCode Camp](https://www.freecodecamp.org/news/author/larymak/)
-<-- 📝[Resume]()-->
+- ✍ I recently began blogging @ [Hashnode](https://dipshanadhikari.hashnode.dev/)
 
 
 ### Connect with me:
