@@ -42,7 +42,5 @@
 <br />
 <br />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=radical" alt="larymak" />
-
 </details>
 
