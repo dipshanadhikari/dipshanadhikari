@@ -1,5 +1,3 @@
-![Development](https://pbs.twimg.com/profile_banners/918758862181806080/1603116450/600x200)
-
 ### Hi there I'm Dipshan Adhikari 👋
 
 ## I'm a Self-taught Developer !!
@@ -43,8 +41,6 @@
 
 <br />
 <br />
-<details>
-<summary>📈 My Github Stats</summary>
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=larymak&show_icons=true&theme=radical" alt="larymak" />
 
