@@ -2,13 +2,12 @@
 
 ## I'm a Self-taught Developer !!
 
-- 🔭 I’m currently working on ... Webdesigning & Unity game projects.
-- 🌱 I’m currently learning ... everything 🤣
+- 🔭 I’m currently working on ... Web designing projects.
+- 🌱 I’m currently learning Responsive web design 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with learning Unity game development
 - ⚡ Fun fact: I am 13 yeasr old
 - 🎸 Would love: To know how to play guitar
-- ✍ I recently began blogging @ [Hashnode](https://dipshanadhikari.hashnode.dev/)
 
 
 ### Connect with me:
