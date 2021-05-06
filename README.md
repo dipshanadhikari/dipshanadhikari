@@ -1,8 +1,8 @@
-### Hi there I'm Dipshan Adhikari 👋
+### Hi there, I'm Dipshan Adhikari 👋
 
 ## I'm a Self-taught Developer !!
 
-- 🔭 I’m currently working on ... Web designing projects.
+- 🔭 I’m currently working on Web designing projects.
 - 🌱 I’m currently learning Responsive web design 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for help with learning Unity game development
