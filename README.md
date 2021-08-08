@@ -2,11 +2,11 @@
 
 ## I'm a Self-taught Developer !!
 
-- 🔭 I’m currently working on Web designing projects.
-- 🌱 I’m currently learning Responsive web design 🤣
+- 🔭 I’m currently working on Full Stack Web designing projects.
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
-- 🤔 I’m looking for help with learning Unity game development
-- ⚡ Fun fact: I am 13 yeasr old
+- 🤔 I’m looking for help with Machine learning and AI
+- ⚡ Fun fact: I am 14 yeasr old
 - 🎸 Would love: To know how to play guitar
 
 
@@ -33,7 +33,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br />
