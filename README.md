@@ -1,4 +1,4 @@
-### Hi there, I'm Dipshan Adhikari 👋
+*### Hi there, I'm Dipshan Adhikari 👋
 
 ## I'm a Self-taught Developer !!
 
@@ -39,5 +39,4 @@
 <br />
 <br />
 
-</details>
-
+</details>*
